@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Lista de tareas",
     "descripcion": "Añade, tacha y gestiona tareas desde el navegador.",
-    "detalle": "Mi primera aplicación con JavaScript: formulario, eventos y manipulación del DOM. La hice en el módulo 07 del taller.",
+    "detalle": "Formulario, eventos, delegación de eventos y manipulación del DOM. La hice en el módulo 07 del taller.",
     "tecnologias": [
       "HTML",
       "CSS",
@@ -30,12 +30,12 @@
   },
   {
     "id": 3,
-    "titulo": "Calculadora de propinas",
-    "descripcion": "Calcula cuánto paga cada persona al dividir la cuenta.",
-    "detalle": "Práctica de operadores, conversión de tipos y eventos input para recalcular en directo.",
+    "titulo": "Ejercicios del taller de JavaScript",
+    "descripcion": "Más de 60 ejercicios resueltos con tests automáticos: variables, bucles, funciones, arrays y objetos.",
+    "detalle": "Ocho módulos del taller, todos en verde, incluidos los extra. Se corrigen con el runner de tests de Node (node:test).",
     "tecnologias": [
-      "HTML",
-      "JavaScript"
+      "JavaScript",
+      "Node"
     ],
     "destacado": false,
     "demo": "",
@@ -43,24 +43,10 @@
   },
   {
     "id": 4,
-    "titulo": "Landing page de una cafetería",
-    "descripcion": "Página de presentación responsive con carta y mapa.",
-    "detalle": "Maquetación con Flexbox y Grid, adaptada a móvil.",
+    "titulo": "Cliente de una API con async/await",
+    "descripcion": "Consulta usuarios y posts en paralelo con Promise.all y controla los tiempos límite.",
+    "detalle": "Módulo 08 del taller: promesas, async/await, try/catch, Promise.all y Promise.race.",
     "tecnologias": [
-      "HTML",
-      "CSS"
-    ],
-    "destacado": false,
-    "demo": "",
-    "codigo": ""
-  },
-  {
-    "id": 5,
-    "titulo": "API de chistes",
-    "descripcion": "Pequeño servidor que devuelve un chiste aleatorio en JSON.",
-    "detalle": "Primer contacto con Node.js y con cómo funciona una API por dentro.",
-    "tecnologias": [
-      "Node",
       "JavaScript",
       "JSON"
     ],

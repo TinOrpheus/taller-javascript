@@ -5,15 +5,15 @@
 // =============================================================
 
 export const perfil = {
-  nombre: 'Alex García',
-  rol: 'Desarrollador/a web en formación',
-  intro: 'Me gusta construir cosas para la web y aprender algo nuevo cada día.',
+  nombre: 'Jesús Gómez',
+  rol: 'Estudiante de SMR en prácticas',
+  intro: 'Me gusta la tecnología y aprender algo nuevo cada día.',
   sobreMi: [
-    'Estoy haciendo mis prácticas y aprendiendo desarrollo web: HTML, CSS y JavaScript.',
-    'Me interesa especialmente crear interfaces sencillas, rápidas y fáciles de usar.',
-    'Fuera del código me gusta la música, los videojuegos y el deporte.',
+    'Estudio 2º de Sistemas Microinformáticos y Redes (SMR) y estoy haciendo las prácticas en Codearts.',
+    'En el taller de JavaScript he pasado de las variables a construir esta web: DOM, eventos, fetch y async/await.',
+    'Me interesan los sistemas, las redes y el desarrollo web.',
   ],
-  email: 'alex.garcia@ejemplo.com',
+  email: 'tu@email.com',
   redes: [
     { nombre: 'GitHub', url: 'https://github.com/' },
     { nombre: 'LinkedIn', url: 'https://www.linkedin.com/' },
