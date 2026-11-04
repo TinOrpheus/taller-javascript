@@ -13,7 +13,7 @@ export const perfil = {
     'En el taller de JavaScript he pasado de las variables a construir esta web: DOM, eventos, fetch y async/await.',
     'Me interesan los sistemas, las redes y el desarrollo web.',
   ],
-  email: 'tu@email.com',
+  email: 'jesusdanielgomezmacias@gmail.com',
   redes: [
     { nombre: 'GitHub', url: 'https://github.com/' },
     { nombre: 'LinkedIn', url: 'https://www.linkedin.com/' },

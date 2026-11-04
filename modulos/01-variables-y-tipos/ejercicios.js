@@ -12,7 +12,7 @@
 // Ojo: ahora mismo alguna tiene trampa.
 // -------------------------------------------------------------
 export const nombre = 'Jesús';
-export const edad = 25;
+export const edad = 28;
 export const esEstudiante = true;
 
 // -------------------------------------------------------------
